@@ -61,7 +61,7 @@ nav .header_right {
 
 nav .header_right .nav-heading {
   display: inline-block;
-  font-size: xxx-large;
+  font-size: xx-large;
   padding: 3% 0%;
 }
 
@@ -79,8 +79,8 @@ nav .header_right .algos button {
   border: none;
   color: white;
   outline: none;
-  padding: 5% 0%;
-  font-size: x-large;
+  padding: 5% 2.5%;
+  font-size: large;
 }
 
 nav .header_right .algos button:hover {
